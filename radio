@@ -167,6 +167,8 @@ https://vip.opstream90.com/20260525/32893_3e89ac16/index.m3u8
 https://vip.opstream90.com/20260525/32891_a6b44d61/index.m3u8
 #EXTINF:-1 group-title="PHIM 2026", Đại án trộm mộ-Phim TQ
 https://vip.opstream90.com/20260525/32889_e2ac4719/index.m3u8
+#EXTINF:-1 group-title="PHIM 2026", Tiêu nhân-Phim TQ
+https://vip.opstream90.com/20260612/34693_d3e185f5/index.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Phim Lẻ" tvg-logo="https://yeuphim.cc/storage/images/tham-hoa-nhan-loai/a10a03204e84e11900eaf71c72fc15d6.jpg", Thảm Họa Nhân Loại
 https://s2.phim1280.tv/20231130/A27thvSX/3000kb/hls/index.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Phim Lẻ" tvg-logo="https://img.phimapi.com/upload/vod/20231120-1/63884f0c14843504d26891934c29c4f4.jpg", Thảm Họa Tàu Con Thoi
@@ -1117,3 +1119,6 @@ https://vip.opstream90.com/20260612/34676_d1551ca3/index.m3u8
 #EXTINF:0,T36
 #EXTGRP:Tiến sĩ đá phần 4
 https://vip.opstream90.com/20260619/35211_9dc4642d/index.m3u8
+#EXTINF:0,T37
+#EXTGRP:Tiến sĩ đá phần 4
+https://vip.opstream90.com/20260626/35624_b568e3db/index.m3u8
